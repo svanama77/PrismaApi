@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/11ee4d22-f8fc-4c7c-bd9d-37d409eb9303/resourceGroups/prismagrpah/providers/Microsoft.Web/sites/GraphPrisma",
+    "appService.deploySubpath": "."
+}
